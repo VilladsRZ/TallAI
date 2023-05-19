@@ -4,5 +4,5 @@ tensorflow
 numba
 scipy
 sklearn
-PIL
-cv2
+Pillow
+opencv-python
